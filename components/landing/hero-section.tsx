@@ -17,13 +17,13 @@ export default function HeroSection() {
       >
          <div className="backdrop-filter-[12px] animate-fade-in group inline-flex h-7 -translate-y-4 items-center justify-between gap-1 rounded-full border border-white/5 bg-white/10 px-3 text-xs text-white opacity-0 transition-all ease-in hover:cursor-pointer hover:bg-white/20 dark:text-black">
             <TextShimmer className="inline-flex items-center justify-center">
-               <span>✨ Introducing Nyxb UI Template</span>
+               <span>✨ Introducing Easy UI Template</span>
                {' '}
                <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
             </TextShimmer>
          </div>
          <h1 className="animate-fade-in -translate-y-4 text-balance bg-gradient-to-br from-black from-30% to-black/40 bg-clip-text py-6 text-5xl font-medium leading-none tracking-tighter text-transparent opacity-0 [--animation-delay:200ms] sm:text-6xl md:text-7xl lg:text-8xl dark:from-white dark:to-white/40">
-            Nyxb UI is the new way
+            Easy UI is the new way
             <br className="hidden md:block" />
             {' '}
             to build landing pages.

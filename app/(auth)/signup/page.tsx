@@ -6,8 +6,8 @@ import { UserAuthForm } from '~/components/user-auth-form'
 import { ny } from '~/lib/utils'
 
 export const metadata: Metadata = {
-   title: 'Sign Up | Nyxb UI',
-   description: 'Sign Up for Nyxb UI',
+   title: 'Sign Up | Easy UI',
+   description: 'Sign Up for Easy UI',
 }
 
 export default function SignUpPage() {
@@ -29,7 +29,7 @@ export default function SignUpPage() {
             <div className="flex flex-col gap-2 text-center">
                {/* <Icons.logo className="mx-auto h-6 w-6" /> */}
                <h1 className="text-2xl font-semibold tracking-tight">
-                  Welcome to Nyxb UI
+                  Welcome to Easy UI
                </h1>
                <p className="text-muted-foreground text-sm">
                   Sign up for an account

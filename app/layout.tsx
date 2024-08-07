@@ -10,8 +10,8 @@ const fontSans = FontSans({
    variable: '--font-sans',
 })
 export const metadata: Metadata = {
-   title: 'Nyxb UI',
-   description: 'The startup template from Nyxb UI',
+   title: 'Easy UI',
+   description: 'The startup template from Easy UI',
 }
 
 export default function RootLayout({

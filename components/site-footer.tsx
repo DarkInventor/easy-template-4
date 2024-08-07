@@ -78,7 +78,7 @@ export function SiteFooter() {
                         className="text-primary size-8"
                      />
                      <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">
-                        Nyxb UI
+                        Easy UI
                      </span>
                   </Link>
                   <p className="max-w-xs">UI Library for Design Engineers</p>
@@ -125,7 +125,7 @@ export function SiteFooter() {
                   {new Date().getFullYear()}
                   {' '}
                   <Link href="/" className="cursor-pointer">
-                     Nyxb UI
+                     Easy UI
                   </Link>
                   . All Rights Reserved.
                </span>

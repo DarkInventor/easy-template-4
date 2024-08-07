@@ -101,7 +101,7 @@ export function SiteHeader() {
          <header className="animate-fade-in fixed left-0 top-0 z-50 w-full -translate-y-4 border-b opacity-0 backdrop-blur-md [--animation-delay:600ms]">
             <div className="container flex h-14 items-center justify-between">
                <Link className="text-md flex items-center" href="/">
-                  Nyxb UI
+                  Easy UI
                </Link>
 
                <div className="ml-auto flex h-full items-center">
@@ -142,7 +142,7 @@ export function SiteHeader() {
             >
                <div className="container flex h-14 items-center justify-between">
                   <Link className="text-md flex items-center" href="/">
-                     Nyxb UI
+                     Easy UI
                   </Link>
 
                   <button

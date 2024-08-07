@@ -3,7 +3,7 @@ Built with next.js, deployed on Vercel.
 
 # Features
 
--  Built using Next.js 14, React, Typescript, Nyxb UI, TailwindCSS, Framer Motion
+-  Built using Next.js 14, React, Typescript, Easy UI, TailwindCSS, Framer Motion
 -  Header Section
 -  Hero Section
 -  Social Proof Section

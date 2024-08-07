@@ -6,7 +6,7 @@ import { UserAuthForm } from '~/components/user-auth-form'
 import { ny } from '~/lib/utils'
 
 export const metadata: Metadata = {
-   title: 'Login | Nyxb UI',
+   title: 'Login | Easy UI',
    description: 'Login to your account',
 }
 
